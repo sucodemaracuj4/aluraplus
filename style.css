@@ -9,9 +9,23 @@
  background-color: var(--cor-de-fundo);
  color: var( --branco-principal);
  font-family: Arial, Helvetica, sans-serif;
+}
+#main{
+    top: 20px;
+    position: absolute;
+    width: 100vw;
+    height: 680px;
+    background: url(Background.png);
+}
+#combo{
+    width: 30vw;
+    
+    position: absolute;
+}
+#plataormas{
+    top:700px;
 
 }
-
 *{
     margin:0;
     padding:0;
@@ -29,6 +43,7 @@
 }
 .botao:hover{
     transform:scale(1.08);
+    
 }
 .botao2{
     background: transparent;
@@ -41,5 +56,10 @@
     color:#FFFFFF;
     border-radius: 8px;
     border:#FFFFFF solid 2px;
+    transition: 200ms;
+}
+
+.botao2:hover{
+ transform: scale(1.08);    
 }
 
