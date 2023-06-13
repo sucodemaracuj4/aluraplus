@@ -22,7 +22,7 @@
     
     position: absolute;
 }
-#plataormas{
+#plataformas{
     top:700px;
 
 }
@@ -63,3 +63,31 @@
  transform: scale(1.08);    
 }
 
+#plataformas{
+    position: absolute;
+
+}
+#assista{
+    position: absolute;
+    width: 588px;
+    height: 114px;
+    left: 732px;
+    top: 318px;
+}
+.assine{
+    position: absolute;
+    top: 1584px;
+    left: 120px;
+    width: 588px;
+    height:72px;
+    
+}
+#botaoassine{
+    position: absolute;
+    height: 56px;
+    width: 162.68px;
+    top: 1672px;
+    left: 120px;
+    border-radius: 8px;
+    background-color: #167BF7;
+}
