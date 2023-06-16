@@ -99,6 +99,13 @@
     top: 1486px;
     left: 778px;
 }
+.baixe{
+    position: absolute;
+    height: 114px;
+    width: 588px;
+    top: 1859px;
+    left: 739px;
+}
 #notebook{
     position: absolute;
     height: 324px;
@@ -106,3 +113,6 @@
     top: 2051px;
     left: 141px;
 }
+#tv{}
+#celular{}
+#computador{}
