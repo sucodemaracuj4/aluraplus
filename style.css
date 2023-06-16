@@ -82,7 +82,7 @@
     height:72px;
     
 }
-#botaoassine{
+#botaoAssine{
     position: absolute;
     height: 56px;
     width: 162.68px;
@@ -100,5 +100,9 @@
     left: 778px;
 }
 #notebook{
-    
+    position: absolute;
+    height: 324px;
+    width: 547px;
+    top: 2051px;
+    left: 141px;
 }
