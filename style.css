@@ -113,6 +113,16 @@
     top: 2051px;
     left: 141px;
 }
-#tv{}
-#celular{}
+#tv{
+position: absolute;
+width:344px;
+height:246px;
+left:158px;
+top:2678px;
+}
+#celular{
+position: absolute;
+width: 344px
+height:246px
+left:}
 #computador{}
